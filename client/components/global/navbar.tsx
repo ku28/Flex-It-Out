@@ -68,7 +68,7 @@ export function Navbar() {
                         className="mr-6 flex items-center space-x-2"
                     >
                         <span className="font-bold text-xl">
-                            Flex-It-Out
+                            FitTrack
                         </span>
                     </Link>
                     {navItems.map((item) => (
@@ -106,7 +106,7 @@ export function Navbar() {
                                 className="flex items-center space-x-2"
                             >
                                 <span className="font-bold">
-                                    Flex-It-Out
+                                    FitTrack
                                 </span>
                             </Link>
                             <div className="flex flex-col space-y-3 mt-4">
@@ -134,7 +134,7 @@ export function Navbar() {
                         href="/"
                         className="ml-2 flex items-center space-x-2"
                     >
-                        <span className="font-bold">Flex-It-Out</span>
+                        <span className="font-bold">FitTrack</span>
                     </Link>
                 </div>
 

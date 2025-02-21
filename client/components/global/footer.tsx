@@ -8,7 +8,7 @@ export function Footer() {
                 <div className="flex flex-col md:flex-row justify-between gap-4 md:gap-8">
                     <div className="space-y-4">
                         <h3 className="text-lg font-semibold">
-                            Flex-It-Out
+                            FitTrack
                         </h3>
                         <p className="text-sm text-muted-foreground max-w-xs">
                             Transform your fitness journey with our
@@ -103,7 +103,7 @@ export function Footer() {
                 <Separator />
 
                 <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
-                    <p>© 2024 Flex-It-Out. All rights reserved.</p>
+                    <p>© 2024 FitTrack. All rights reserved.</p>
                     <div className="flex items-center gap-4">
                         <Link
                             href="/terms"

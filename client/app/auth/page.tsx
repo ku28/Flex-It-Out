@@ -128,7 +128,7 @@ export default function AuthPage() {
         <div className="container mx-auto flex items-center justify-center min-h-screen py-8">
             <Card className="w-full max-w-md">
                 <CardHeader>
-                    <CardTitle>Welcome to Flex-It-Out</CardTitle>
+                    <CardTitle>Welcome to FitTrack</CardTitle>
                     <CardDescription>
                         Sign in to access all features
                     </CardDescription>
