@@ -1,0 +1,6 @@
+Torch
+Fastapi
+Uvicorn
+Transformers
+Starlette
+Requests
