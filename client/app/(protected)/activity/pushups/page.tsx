@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Pushup1 from '@/public/pushup1.webp';
 import Pushup2 from '@/public/pushup2.webp';
 import Pushup3 from '@/public/pushup3.webp';
+import { Leaderboard } from '@/components/Leaderboard';
 
 const PushupCounter: React.FC = () => {
     return (
@@ -112,6 +113,7 @@ const PushupCounter: React.FC = () => {
                     </div>
                     <Card className="w-full max-w-[500px]">
                         <CardContent className="p-0">
+                            <Leaderboard />
                             <PoseLandmarkerComponent />
                         </CardContent>
                     </Card>
